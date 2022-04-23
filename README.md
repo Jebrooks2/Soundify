@@ -4,6 +4,8 @@
 - You can upload music to storage
 - You can listen your music from storage
 - You can easily modify the program code
+- You can search for songs in the database
+- You can log in anonymously or through google 
 - Availability of notifications
 - Track covers
 
